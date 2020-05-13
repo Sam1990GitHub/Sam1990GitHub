@@ -20,3 +20,5 @@ function golfscore(par, strokes) {
 }
 
 console.log(golfscore(3,2));
+
+//This Output would show "Birdie", as the par was 3 and the score was 2.
