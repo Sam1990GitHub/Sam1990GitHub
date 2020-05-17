@@ -1,0 +1,56 @@
+/* Stylesheet for 4StageWebsite */
+
+
+
+body {
+float:center
+margin:1%
+padding:1%;
+}
+
+
+header h1 {
+font-size: 300%;
+text-align:center;
+color: #FFFFFF;
+display: center
+margin: 1px solid #ffffff;
+}
+
+
+table {
+font-size: 200%;
+text-align: center;
+width: 100%;
+white-space:nowrap;
+
+}
+
+
+table th {
+font-size: 200%;
+text-align: center;
+white-space: nowrap;
+background-image: url("UJflag.jpg");
+background-size: cover;
+
+}
+
+table
+
+img {
+width: 500px;
+height: 500px;
+margin-right:auto;
+margin-left:auto;
+
+}
+
+
+footer {
+font-size: 300%;
+color: #ffffff;
+text-align: center;
+}
+
+
